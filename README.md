@@ -7,7 +7,6 @@ Team members: Yu Chun Peng, Chien-Chu Hsu, Chia-Yen Ho, Devansh Bhasin
 - Catboost.ipynb
 - Logistic+LightGBM.ipynb
 - Blending Different Models.ipynb
-- Best Submission.csv
 
 **Write-up files**
 - Presentation Slides.pdf
